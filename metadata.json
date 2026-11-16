@@ -1,0 +1,8 @@
+{
+  "name": "SketchDash",
+  "description": "Browser-based multiplayer drawing, guessing, and trivia party game. Share a room link to play instantly with friends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
